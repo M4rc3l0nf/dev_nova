@@ -83,3 +83,30 @@ footer{
     background-color: #CAEBF2;
     padding: 10px;
 }
+
+#map{
+     border-radius: 30px;
+     text-align: center;
+}
+
+#dados{
+      
+      text-align: center;
+}
+
+.contact{
+    display: block;
+    width: 50%;
+    text-decoration: none;
+    color:#FF3b3F;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contact:link, .contact:visited{
+    color: #ff3b3f;
+}
+
+.contact:hover{
+    font-style: italic;
+}
